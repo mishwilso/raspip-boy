@@ -1,0 +1,10 @@
+Showerbrush_g
+Toothbrush_g
+Soap Bar_g
+Dental Floss_g
+Burger_f
+Hotdog_f
+Pizza_f
+Toy_t
+Ball_t
+Gameboy_t

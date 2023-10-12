@@ -1,0 +1,10 @@
+Chips,Honey Buddha Chips/ my beloved- Where /would I be without /your crunch,chips.png
+Bread,That's it? No butter/...No jam? You.../monster,bread.png
+Potato,Potato or Potato/...that is the question,potato.png
+Salami,How does this /differ from ham exactly?,salami.png
+Cake,What flavor is /this?,cake.png
+Egg,I'm sorry...an /ENTIRE egg? Is it /cooked?,egg.png
+Steak,Perfectly cooked/ like all things /should be,steak.png
+Water,It's certainly /a liquid,waterbottle.png
+Soda,Fizz,soda.png
+Coffee,Black coffee...like my /soul after coding this /project,coffee.png
